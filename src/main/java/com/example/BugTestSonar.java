@@ -16,6 +16,7 @@ public class BugTestSonar {
 		
 		System.out.println("hey me"); 
 
+		System.out.println("hey me"); 
 
 
 		boolean elem1 = true;
